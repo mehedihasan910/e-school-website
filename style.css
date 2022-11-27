@@ -1,0 +1,282 @@
+#navsection{
+    
+    
+    width: 2000px;
+    height: 576px;
+left: 0px;
+top: 0px;
+
+background: #F0FFF0;
+}
+#navsection img{
+width: 198.07px;
+height: 59px;
+
+}
+.container button{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 28px;
+    gap: 10px;
+    color: white;
+border: none;    
+    top: 25px;
+    background: #21B573;
+    border-radius: 33px
+}
+
+/*this is navsection Learnbar*/
+#Learn{
+    margin-top: 100px;
+}
+#Learn h6{
+    color: red;
+}
+#Learn span{
+    color: #21B573;
+}
+#Learn img{
+width: 554px;
+height: 346px;
+left: 691px;
+top: 157px;
+margin-left: 100px;
+
+}
+/*learning section*/
+#students{
+    width: 2000px;
+    height: 400px;
+}
+#students .card {
+    position: absolute;
+    
+    width: 270px;
+    height: 270px;
+    
+    top: 618px;
+margin-bottom: 100px;
+    background: #f8fffb;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+#students img{
+    
+width: 66px;
+height: 85px;
+margin-top: 50px;
+margin-left: 100px;
+position: center;
+position: absolute;
+
+    
+}
+.card h5{
+    position: absolute;
+    width: 179px;
+    height: 36px;
+    top: 150px;
+    left: 60px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    
+    
+    
+    color: #413960;
+    
+}
+.card p{
+    position: absolute;
+width: 128px;
+height: 24px;
+left: 70px;
+top: 200px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+
+
+color: #585859;
+
+
+}
+/*online courses*/
+#online{
+    
+left: 135px;
+height: 500px;
+
+
+}
+#online .heading{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#online .card{
+    position: absolute;
+padding-bottom: 200px;
+width: 370px;
+height: 483px;
+
+
+background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;   
+}
+
+#online img{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 331px;
+    height: 234px;
+    border-radius: 11px;
+    
+}
+#online h5{
+    position: absolute;
+width: 237px;
+height: 36px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+
+
+color: #413960;
+
+    margin-top: 120px;
+}
+#online p{
+    margin-top:120px;
+}
+
+#online button{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 28px;
+gap: 10px;
+
+position: absolute;
+width: 137px;
+height: 35px;
+left:50px;
+top: 370px;
+
+background: #21B573;
+border-radius: 33px;
+}
+#online .col-md-4 .card .calender{
+    margin-right: 2px;
+    margin-top: 280px;
+}
+#online .col-md-4 .card .calender img{
+    height: 20px;
+    width: 18px;
+    margin-right: 10px;
+    
+    border-radius: 0px;
+    
+
+}
+#online .col-md-4 .card .calender h6{
+    margin-top: 20px;
+margin-right:5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #585859;
+}
+
+
+/*Testimonial*/
+.section-header{
+
+margin-top: 300px;
+
+text-align: center;
+font-family: 'Poppins';
+font-style: normal;
+font-size: 36px;
+
+
+
+color: #000000;
+}
+.row #testimonial{
+margin-top: 200px;
+}
+#testimonial img{
+ position: absolute;
+width: 120px;
+height: 120px;
+left: 353px;
+top: 1787px;
+
+
+}
+#testimonial p{
+    
+position: absolute;
+width: 583px;
+height: 90px;
+left: 599px;
+top: 1850px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+
+
+
+color: #000000;
+
+}
+/*Footer section*/
+#footer{
+    position: absolute;
+width: 1463px;
+height: 369px;
+left: 135px;
+top: 2050px;
+color: white;
+background: #282531;
+padding-top: 50px;
+text-align: center;
+}
+#footer a{
+    color: white;
+
+}
+#footer.copyright h1{
+
+text-align: center;
+
+
+font-family: 'Poppins';
+font-style: normal;
+
+font-size: 16px;
+line-height: 30px;
+
+
+color: #CDCDCD;
+
+}
